@@ -1,0 +1,46 @@
+﻿Column,Variable ,Units,Description
+1,Paper,NA,Publication Reference
+2,ID,NA,Unique numerical identifier for each datapoint
+3,PaperID,NA,Unique numerical identifier for each publication
+4,DecompID,NA,Unique numerical identifier for each decomposition sequence
+5,Source,NA,Name of prior meta-analysis in which study was incorporated
+6,Experiment_Type,NA,Type of decomposition experiment
+7,Latitude,decimal degree,Study location latitude
+8,Longitude,decimal degree,Study location longitude
+9,MAT,degree Celcius,mean annual temperature
+10,MAP,mm (millimeters),"arctic, boreal, desert, grassland, subtropical forest, temperature coniferous forest, temperate deciduous forest, tropical forest"
+11,Duration_years,years,Length of decomposition period
+12,Treatment,NA,"Plot treatment, Control (C) or Nitrogen addition (N) "
+13,N_addition_kgN_ha_yr,kg N ha-1 yr-1,Rate of N fertilization in treatment plots
+14,N_Form,NA,Nitrogen fertilizer form
+15,N_Form_Cat2,NA,Nitrogen fertilizer form by category
+16,Ecosystem,NA,Ecosystem in which study was conducted
+17,Substrate_Cat,NA,Type of material decomposed
+18,FinalMass,NA,Proportion initial mass remaining at end of decomposition period
+19,Years,years,Length of decomposition period
+20,Harvests,NA,Number of harvests throughout decomposition period
+21,single.k,NA,single exponential k 
+22,double.ks,NA,double exponential ks (slow pool decomposition rate)
+23,double.k,NA,double exponential k (fast pool decomposition rate)
+24,double.A,NA,size of slow pool in double exponential model
+25,asymp.k,NA,asymptotic exponential k value
+26,asymp.A,NA,asymptotic exponential A value
+27,weibull.alpha,NA,weibull alpha value
+28,weibull.beta,NA,weibull beta value
+29,weibull.mrt,years,weibull mean residence time
+30,weibull.half.life,years,weibull half life
+31,weibull.quarter,years,weibull quarter life
+32,weibull.tenth,years,weibull tenth life
+33,weibull.AIC,NA,weibull model AIC
+34,Single_AICc,NA,single exponential model AIC
+35,Asym_AICc,NA,asymptotic exponential model AIC
+36,Double_AICc,NA,double exponential model AIC
+37,Best_Model_3,NA,"model with lowest AIC when compared among exponential models (single, double, asymptotic)"
+38,Best_Model_4,NA,"model with lowest AIC when compared among all four models (single, double, asymptotic, weibull)"
+39,Single_3,NA,"identifies observations in which the single model AIC was lowest or within 3 units of lowest AIC model, compared within exponential model family"
+40,Double_3,NA,"identifies observations in which the double exponential model AIC was lowest or within 3 units of lowest AIC model, compared within exponential model family"
+41,Asymp_3,NA,"identifies observations in which the asymptotic model AIC was lowest or within 3 units of lowest AIC model, compared within exponential model family"
+42,Single_4,NA,"identifies observations in which the single model AIC was lowest or within 3 units of lowest AIC model, compared across all four models"
+43,Double_4,NA,"identifies observations in which the double exponential model AIC was lowest or within 3 units of lowest AIC model, compared across all four models"
+44,Asymp_4,NA,"identifies observations in which the asymptotic model AIC was lowest or within 3 units of lowest AIC model, compared across all four models"
+45,Weibull_4,NA,"identifies observations in which the weibull model AIC was lowest or within 3 units of lowest AIC model, compared across all four models"
