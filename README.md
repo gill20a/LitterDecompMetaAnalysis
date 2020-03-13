@@ -4,8 +4,8 @@ This repository contains all code to replicate analyses and digures from *Gill e
 
 In this study, we aggregated all published litter decomposition data from N fertilization experiments and fit four decomposition models to time series of litter mass loss data. The code and datasets provided here allow you to: 
 1. Fit decomposition models (single exponential, double exponential, asymptotic exponential, and Weibull) to litter mass loss time series derived from published studies.
- - Data: Gill_NFertilization_MetaAnalysis_LitterHarvestData
- - Code: Gill_NFertilization_MetaAnalysis_DecompModelFits
+ - Data: Gill_NFertilization_MetaAnalysis_LitterHarvestData.csv
+ - Code: Gill_NFertilization_MetaAnalysis_DecompModelFits.R
 2. Evaluate model parameter fits across the dataset. Perform analyses presented in results paragraph 1 and 2; Figure 1 and S1; Table S1.
  - Data: 
  - Code:  
