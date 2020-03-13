@@ -6,7 +6,7 @@ library(stats4)
 library(bbmle)
 
 #Download data file. Users will need to update link to reflect their own file path. 
-urlfile = "https://raw.githubusercontent.com/gill20a/LitterDecompMetaAnalysis/master/Gill_NFertilization_MetaAnalysis_LitterHarvestData.csv"
+urlfile = "https://raw.githubusercontent.com/gill20a/LitterDecompMetaAnalysis/master/NFert_MetaA_LitterHarvestData.csv"
 data<-read.csv(url(urlfile))
 data$propinit<-as.numeric(as.character(data$propinit))
 
