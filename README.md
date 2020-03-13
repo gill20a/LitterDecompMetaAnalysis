@@ -8,8 +8,8 @@ In this study, we aggregated all published litter decomposition data from N fert
  - Metadata: LitterHarvest_Metadata.csv
  - Code: Gill_NFertilization_MetaAnalysis_DecompModelFits.R
 2. Evaluate model parameter fits across the dataset. Perform analyses presented in results paragraph 1 and 2; Figure 1 and S1; Table S1.
- - Data: 
- - Metadata:
+ - Data: Gill_NDeposition_MetaAnalysis_ParameterSummary.csv
+ - Metadata: ParameterSummary_Metadata.csv
  - Code:  
 3. Calculate parameter log response ratios and evaluate response distribution and relationship with predictor variables. Perform analyses presented in results paragraphs 3-7; Figures 2-4, Table S2-S7.
  - Data: 
