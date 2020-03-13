@@ -3,7 +3,7 @@
 This repository contains all code to replicate analyses and digures from *Gill et al. 2020. Experimental nitrogen fertilization globally accelerates, then slows decomposition of leaf litter*. 
 
 In this study, we aggregated all published litter decomposition data from N fertilization experiments and fit four decomposition models to time series of litter mass loss data. The code and datasets provided here allow you to: 
-1. Fit decomposition models (single exponential, double exponential, asymptotic exponential, and Weibull) to litter mass loss time series derived from published studies.
+1. **Model Fitting** Fit decomposition models (single exponential, double exponential, asymptotic exponential, and Weibull) to litter mass loss time series derived from published studies.
  - **Data**: NFert_MetaA_LitterHarvestData.csv
  - **Metadata**: LitterHarvest_Metadata.csv
  - **Code**: NFert_MetaA_DecompModelFits.R
