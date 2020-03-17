@@ -14,6 +14,6 @@ In this study, we aggregated all published litter decomposition data from N fert
 3. **Evaluate Fertilization Responses**. Calculate parameter log response ratios and evaluate response distribution and relationship with predictor variables. Perform analyses presented in results paragraphs 3-7; Figures 2-4, Table S2-S7.
  - **Data**: NFert_MetaA_ResponseRatios.csv
  - **Metadata**: ResponseRatios_Metadata.csv
- - **Code**: NFert_MetaA_ResponseRatioAnalysis.R
+ - **Code**: NFert_MetaA_RRAnalysis.R
  
-The first line of each code file needs to be updated to match the data directory on the user's computer.  This project was built under R version3.6.1 and depends on the following packages: stats4, bbmle, readr, plyr, dplyr, Matrix, Hmisc, gglplot2, nlme, multcomp, MuMIn.
+The first line of each code file needs to be updated to match the data directory on the user's computer.  This project was built under R version3.6.1 and depends on the following packages: stats4, bbmle, readr, plyr, dplyr, Matrix, Hmisc, gglplot2, nlme, multcomp, MuMIn, boot.
