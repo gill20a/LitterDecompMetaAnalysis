@@ -1,5 +1,5 @@
 # Litter Decomposition Meta-Analysis
-## Code associated with figures and data analyses in *Gill et. al.(Year/Journal Name)* litter decomposition meta-analysis. 
+## Code associated with figures and data analyses in *Gill et. al.(2021/Ecology Letters)* litter decomposition meta-analysis. 
 This repository contains all code to replicate analyses and digures from *Gill et al. 2020. Experimental nitrogen fertilization globally accelerates, then slows leaf litter decomposition*. 
 
 In this study, we aggregated all published litter decomposition data from N fertilization experiments and fit four decomposition models to time series of litter mass loss data. The code and datasets provided here allow you to: 
