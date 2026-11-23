@@ -1,0 +1,827 @@
+,Lab.Day,Location,Group,Habitat,SampleNumber,Order,Family,Length_mm,Width._mm,TrophicStatus,BioticIndex,Notes,OrderFamily,GroupNumber
+1,Wed,Hoosic,BT_GW_OC,Rock,2,Diptera,Chironomidae,4,1,Collector,6,,Diptera Chironimidae,BT_GW_OC 2
+2,Wed,Hoosic,BT_GW_OC,Rock,2,Diptera,Chironomidae,6,1,Collector,7,,Diptera Chironimidae,BT_GW_OC 2
+3,Wed,Hoosic,BT_GW_OC,Rock,2,Diptera,Chironomidae,7,1,Collector,8,,Diptera Chironimidae,BT_GW_OC 2
+4,Wed,Hoosic,BT_GW_OC,Rock,2,Diptera,Chironomidae,9,1,Collector,9,,Diptera Chironimidae,BT_GW_OC 2
+5,Wed,Hoosic,BT_GW_OC,Rock,2,Diptera,Chironomidae,9,1,Collector,10,,Diptera Chironimidae,BT_GW_OC 2
+6,Wed,Hoosic,BT_GW_OC,Rock,2,Diptera,Chironomidae,10,1,Collector,11,,Diptera Chironimidae,BT_GW_OC 2
+7,Wed,Hoosic,CR_SJ_SA,Rock,2,Coleoptera,Spp. ,8,6,,NA,,Coleoptera Spp. ,CR_SJ_SA 2
+8,Wed,Hoosic,CR_SJ_SA,Leaf,1,Coleoptera,Spp. ,14,5,,NA,,Coleoptera Spp. ,CR_SJ_SA 1
+9,Wed,Hoosic,CR_SJ_SA,Leaf,2,Coleoptera,Spp. ,14,NA,,NA,,Coleoptera Spp. ,CR_SJ_SA 2
+10,Tues,FordGlen,RH_MB_HM,Leaf,2,Coleoptera,Elmidae,2,0.3,Collector,4,,Coleoptera Elmidae,RH_MB_HM 2
+11,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Coleoptera,Elmidae,5.5,2,Collector,4,,Coleoptera Elmidae,MF_SW_AV_AE 2
+12,Tues,FordGlen,RH_MB_HM,Rock,1,Coleoptera,Elmidae,8,2,Collector,4,,Coleoptera Elmidae,RH_MB_HM 1
+13,Tues,FordGlen,RH_MB_HM,Rock,1,Coleoptera,Elmidae,10,2,Collector,4,,Coleoptera Elmidae,RH_MB_HM 1
+14,Tues,FordGlen,RH_MB_HM,Rock,1,Coleoptera,Elmidae,10,2,Collector,4,,Coleoptera Elmidae,RH_MB_HM 1
+15,Tues,FordGlen,RH_MB_HM,Rock,2,Coleoptera,Elmidae,11,2,Collector,4,,Coleoptera Elmidae,RH_MB_HM 2
+16,Wed,Hoosic,BT_GW_OC,Rock,1,Coleoptera,Elmidae,13,6,Collector,4,,Coleoptera Elmidae,BT_GW_OC 1
+17,Wed,Hoosic,RW_AM_CL,Rock,1,Coleoptera,Psephenidae,6.5,4.9,Scraper,4,,Coleoptera Psephenidae,RW_AM_CL 1
+18,Wed,Hoosic,RW_AM_CL,Rock,1,Coleoptera,Psephenidae,8.2,5.1,Scraper,4,,Coleoptera Psephenidae,RW_AM_CL 1
+19,Tues,FordGlen,HH_CB_MPM,Rock,1,Coleoptera,Psephenidae,3,1.5,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 1
+20,Tues,FordGlen,AP_SN_RB,Rock,1,Coleoptera,Psephenidae,3,2,Scraper,4,,Coleoptera Psephenidae,AP_SN_RB 1
+21,Tues,FordGlen,HH_CB_MPM,Rock,1,Coleoptera,Psephenidae,4,2.5,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 1
+22,Tues,FordGlen,HH_CB_MPM,Rock,1,Coleoptera,Psephenidae,4,2.5,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 1
+23,Tues,FordGlen,HH_CB_MPM,Rock,2,Coleoptera,Psephenidae,4,3,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 2
+24,Tues,FordGlen,AP_SN_RB,Rock,1,Coleoptera,Psephenidae,4,3,Scraper,4,,Coleoptera Psephenidae,AP_SN_RB 1
+25,Tues,FordGlen,HH_CB_MPM,Rock,1,Coleoptera,Psephenidae,5,2.5,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 1
+26,Tues,FordGlen,HD_GN_CP,Rock,2,Coleoptera,Psephenidae,5,2,Scraper,4,,Coleoptera Psephenidae,HD_GN_CP 2
+27,Tues,FordGlen,AP_SN_RB,Leaf,NA,Coleoptera,Psephenidae,5,2,Scraper,4,,Coleoptera Psephenidae,AP_SN_RB NA
+28,Tues,FordGlen,JR_RW_EW,Rock,1,Coleoptera,Psephenidae,5,3,Scraper,4,,Coleoptera Psephenidae,JR_RW_EW 1
+29,Tues,FordGlen,JR_RW_EW,Rock,1,Coleoptera,Psephenidae,5,2,Scraper,4,,Coleoptera Psephenidae,JR_RW_EW 1
+30,Tues,FordGlen,JR_RW_EW,Rock,2,Coleoptera,Psephenidae,5,3,Scraper,4,,Coleoptera Psephenidae,JR_RW_EW 2
+31,Tues,FordGlen,HH_CB_MPM,Rock,1,Coleoptera,Psephenidae,6,2.75,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 1
+32,Tues,FordGlen,HH_CB_MPM,Rock,2,Coleoptera,Psephenidae,6,3,Scraper,4,,Coleoptera Psephenidae,HH_CB_MPM 2
+33,Tues,FordGlen,AP_SN_RB,Rock,2,Coleoptera,Psephenidae,6,3,Scraper,4,,Coleoptera Psephenidae,AP_SN_RB 2
+34,Tues,FordGlen,AP_SN_RB,Rock,2,Coleoptera,Psephenidae,6,3,Scraper,4,,Coleoptera Psephenidae,AP_SN_RB 2
+35,Tues,FordGlen,JR_RW_EW,Rock,1,Coleoptera,Psephenidae,6,3,Scraper,4,,Coleoptera Psephenidae,JR_RW_EW 1
+36,Tues,FordGlen,JR_RW_EW,Rock,1,Coleoptera,Psephenidae,7,4,Scraper,4,,Coleoptera Psephenidae,JR_RW_EW 1
+37,Wed,Hoosic,CV_NB_CS,Rock,1,Coleoptera,Psephenidae,8,5.5,Scraper,4,,Coleoptera Psephenidae,CV_NB_CS 1
+38,Wed,Hoosic,CV_NB_CS,Rock,1,Coleoptera,Psephenidae,9,7,Scraper,4,,Coleoptera Psephenidae,CV_NB_CS 1
+39,Wed,Hoosic,CV_NB_CS,Rock,2,Coleoptera,Psephenidae,9,7,Scraper,4,,Coleoptera Psephenidae,CV_NB_CS 2
+40,Wed,Hoosic,CV_NB_CS,Rock,2,Coleoptera,Psephenidae,10,5,Scraper,4,,Coleoptera Psephenidae,CV_NB_CS 2
+41,Wed,Hoosic,CV_NB_CS,Rock,1,Coleoptera,Psephenidae,15,6,Scraper,4,,Coleoptera Psephenidae,CV_NB_CS 1
+42,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,2,2,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+43,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,2,2,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+44,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,2.5,2,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+45,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,3,2,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+46,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,3,1.5,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+47,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,4,2,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+48,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Coleoptera,Psephenidae,5,3,Scraper,4,,Coleoptera Psephenidae,GV_GL_CE_RP 1
+49,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Coleoptera,Spp. ,3,1,,NA,,Coleoptera Spp. ,GV_GL_CE_RP 2
+50,Tues,FordGlen,GV_GL_CE_RP,Leaf,1,Coleoptera,Spp. ,3,1,,NA,,Coleoptera Spp. ,GV_GL_CE_RP 1
+51,Tues,FordGlen,HD_GN_CP,Leaf,2,Coleoptera,Spp. ,4.5,3,,NA,,Coleoptera Spp. ,HD_GN_CP 2
+52,Wed,Hoosic,AN_CA_EM,Leaf,1,Coleoptera,Spp. ,13,6,,NA,Need notes from Prof. Gill on Species,Coleoptera Spp. ,AN_CA_EM 1
+53,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Diptera,Ceratopogonidae,4,0.5,Predator,6,,Diptera Ceratopogonidae,GV_GL_CE_RP 1
+54,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Diptera,Ceratopogonidae,5,0.5,Predator,6,,Diptera Ceratopogonidae,GV_GL_CE_RP 1
+55,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,5,0.5,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+56,Tues,FordGlen,AP_SN_RB,Rock,2,Diptera,Chironomidae,6.5,0.5,Collector,6,,Diptera Chironomidae,AP_SN_RB 2
+57,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,7,1,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+58,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,8,1.5,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+59,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,9,1.5,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+60,Tues,FordGlen,AP_SN_RB,Rock,2,Diptera,Chironomidae,9,0.5,Collector,6,,Diptera Chironomidae,AP_SN_RB 2
+61,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,11,1.5,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+62,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,11,2,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+63,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,12,1.5,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+64,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,14,1,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+65,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,14,3,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+66,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,14,3,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+67,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,15,2,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+68,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,15,2,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+69,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,15,2,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+70,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,15,2,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+71,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,15,3,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+72,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,17,2,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+73,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,20,4,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+74,Tues,FordGlen,HD_GN_CP,Leaf,1,Diptera,Chironomidae,30,4,Collector,6,,Diptera Chironomidae,HD_GN_CP 1
+75,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,9,1.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+76,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,9,2,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+77,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,9,1.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+78,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,11,2.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+79,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,12,2.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+80,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,13,2.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+81,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,13.5,2,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+82,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,14,1.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+83,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,15,2.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+84,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,15,2,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+85,Tues,FordGlen,GV_GL_CE_RP,Leaf,1,Diptera,Dolichopodidae,16,3,Predator,4,,Diptera Dolichopodidae,GV_GL_CE_RP 1
+86,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,16,2,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+87,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,17,3,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+88,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,17,3,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+89,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Dolichopodidae,17,1.5,Predator,4,,Diptera Dolichopodidae,HD_GN_CP 2
+90,Tues,FordGlen,GV_GL_CE_RP,Leaf,1,Diptera,Dolichopodidae,20,3,Predator,4,,Diptera Dolichopodidae,GV_GL_CE_RP 1
+91,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Diptera,Ptychopteridae,5,1,Collector,6,,Diptera Ptychopteridae,GV_GL_CE_RP 1
+92,Tues,FordGlen,HD_GN_CP,Rock,1,Diptera,Simuliidae,10,1,Collector,6,,Diptera Simuliidae,HD_GN_CP 1
+93,Tues,FordGlen,HH_CB_MPM,Rock,2,Diptera,Tabinidae,11,3,Predator,6,,Diptera Tabinidae,HH_CB_MPM 2
+94,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,7,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+95,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,10,1,Shredder,3,not sure on family,Diptera Tipulidae,AP_SN_RB 2
+96,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Diptera,Tipulidae,11,1,Shredder,3,,Diptera Tipulidae,GV_GL_CE_RP 2
+97,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,14,2,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+98,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,14,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+99,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,14,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+100,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,14,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+101,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,15,3,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+102,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,15,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+103,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Diptera,Tipulidae,16,2,Shredder,3,,Diptera Tipulidae,GV_GL_CE_RP 2
+104,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,16,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+105,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,16,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+106,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,16,1,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+107,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Diptera,Tipulidae,17,3,Shredder,3,,Diptera Tipulidae,GV_GL_CE_RP 2
+108,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,17,3,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+109,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,17,2,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+110,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Diptera,Tipulidae,18,2,Shredder,3,,Diptera Tipulidae,GV_GL_CE_RP 2
+111,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,18,3,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+112,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,19,3,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+113,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,20,3,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+114,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,20,5,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+115,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,20,3,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+116,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,20,3,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+117,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,21,4,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+118,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Diptera,Tipulidae,29,4,Shredder,3,,Diptera Tipulidae,GV_GL_CE_RP 2
+119,Tues,FordGlen,JR_RW_EW,Leaf,1,Diptera,Tipulidae,30,5,Shredder,3,,Diptera Tipulidae,JR_RW_EW 1
+120,Tues,FordGlen,AP_SN_RB,Leaf,2,Diptera,Tipulidae,31,4,Shredder,3,,Diptera Tipulidae,AP_SN_RB 2
+121,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Diptera,Tipulidae,32,3,Shredder,3,,Diptera Tipulidae,GV_GL_CE_RP 2
+122,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Diptera,Tipulidae,56,8,Shredder,3,,Diptera Tipulidae,MF_SW_AV_AE 1
+123,Tues,FordGlen,RH_MB_HM,Leaf,2,Diptera,Spp. ,11,1,,NA,,Diptera Spp. ,RH_MB_HM 2
+124,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Spp. ,13,2,,NA,too shriveled for family,Diptera Spp. ,HD_GN_CP 2
+125,Tues,FordGlen,RH_MB_HM,Leaf,2,Diptera,Spp. ,14,2,,NA,,Diptera Spp. ,RH_MB_HM 2
+126,Tues,FordGlen,RH_MB_HM,Leaf,2,Diptera,Spp. ,17,2,,NA,,Diptera Spp. ,RH_MB_HM 2
+127,Tues,FordGlen,RH_MB_HM,Leaf,2,Diptera,Spp. ,25,5,,NA,,Diptera Spp. ,RH_MB_HM 2
+128,Tues,FordGlen,RH_MB_HM,Leaf,2,Diptera,Spp. ,26,3,,NA,,Diptera Spp. ,RH_MB_HM 2
+129,Tues,FordGlen,RH_MB_HM,Leaf,2,Diptera,Spp. ,28,4,,NA,,Diptera Spp. ,RH_MB_HM 2
+130,Tues,FordGlen,HD_GN_CP,Leaf,2,Diptera,Spp. ,NA,NA,,NA,"Badly shriveled, unable to measure",Diptera Spp. ,HD_GN_CP 2
+131,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Arthropleidae,NA,NA,Collector,NA,,Ephemeroptera Arthropleidae,CR_SJ_SA 1
+132,Tues,FordGlen,HH_CB_MPM,Rock,2,Ephemeroptera,Baetiscidae,4,2,Collector,3,,Ephemeroptera Baetiscidae,HH_CB_MPM 2
+133,Tues,FordGlen,HH_CB_MPM,Leaf,1,Ephemeroptera,Baetiscidae,5,1,Collector,3,,Ephemeroptera Baetiscidae,HH_CB_MPM 1
+134,Tues,FordGlen,AP_SN_RB,Leaf,1,Ephemeroptera,Baetiscidae,7,4,Collector,3,,Ephemeroptera Baetiscidae,AP_SN_RB 1
+135,Tues,FordGlen,HH_CB_MPM,Rock,2,Ephemeroptera,Baetiscidae,9,4,Collector,3,,Ephemeroptera Baetiscidae,HH_CB_MPM 2
+136,Tues,FordGlen,HH_CB_MPM,Rock,1,Ephemeroptera,Baetiscidae,27,4,Collector,3,,Ephemeroptera Baetiscidae,HH_CB_MPM 1
+137,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,4,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+138,Wed,Hoosic,CR_SJ_SA,Leaf,2,Ephemeroptera,Caenidae,4,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+139,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,5,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+140,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,5,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+141,Wed,Hoosic,CR_SJ_SA,Leaf,2,Ephemeroptera,Caenidae,5,4,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+142,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,6,4,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+143,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,6,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+144,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,6,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+145,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+146,Wed,Hoosic,CR_SJ_SA,Leaf,2,Ephemeroptera,Caenidae,7,4,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+147,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,8,4,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+148,Wed,Hoosic,CR_SJ_SA,Leaf,2,Ephemeroptera,Caenidae,9,4,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+149,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,10,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+150,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,13,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+151,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+152,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+153,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+154,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+155,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+156,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+157,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+158,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+159,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+160,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+161,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+162,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+163,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+164,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+165,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+166,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+167,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+168,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+169,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+170,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+171,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+172,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+173,Wed,Hoosic,CR_SJ_SA,Rock,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+174,Wed,Hoosic,CR_SJ_SA,Leaf,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+175,Wed,Hoosic,CR_SJ_SA,Leaf,2,Ephemeroptera,Caenidae,NA,NA,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 2
+176,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,2,0.5,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+177,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,2,0.5,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+178,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,3.1,1,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+179,Wed,Hoosic,RW_AM_CL,Leaf,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 1
+180,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4,1.5,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+181,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4.1,1.4,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+182,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4.2,1.6,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+183,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Caenidae,4.2,1.2,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 1
+184,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4.3,1.1,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+185,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4.5,1.8,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+186,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4.5,1.3,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+187,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,4.7,1.1,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+188,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+189,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+190,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+191,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+192,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+193,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+194,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+195,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+196,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+197,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+198,Wed,Hoosic,RW_AM_CL,Leaf,1,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 1
+199,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,5,1.2,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+200,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,5,1.9,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+201,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Caenidae,5,3,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 1
+202,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,5,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+203,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,5,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+204,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,5,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+205,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,5.2,1.3,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+206,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Caenidae,5.6,1.5,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 1
+207,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Caenidae,6,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+208,Wed,Hoosic,AN_CA_EM,Leaf,1,Ephemeroptera,Caenidae,6,3,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+209,Wed,Hoosic,AN_CA_EM,Leaf,1,Ephemeroptera,Caenidae,6,3,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+210,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+211,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+212,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+213,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+214,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+215,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+216,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+217,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,smallest,Ephemeroptera Caenidae,AN_CA_EM 2
+218,Wed,Hoosic,RW_AM_CL,Leaf,1,Ephemeroptera,Caenidae,6,2,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 1
+219,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,6,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+220,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,6,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+221,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,6.1,1.8,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+222,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+223,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+224,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,7,3,Collector,7,mid-range,Ephemeroptera Caenidae,AN_CA_EM 2
+225,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,7,3,Collector,7,mid-range,Ephemeroptera Caenidae,AN_CA_EM 2
+226,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,7,3,Collector,7,mid-range,Ephemeroptera Caenidae,AN_CA_EM 2
+227,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,7,3,Collector,7,mid-range,Ephemeroptera Caenidae,AN_CA_EM 2
+228,Wed,Hoosic,AN_CA_EM,Leaf,2,Ephemeroptera,Caenidae,7,3,Collector,7,mid-range,Ephemeroptera Caenidae,AN_CA_EM 2
+229,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+230,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+231,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+232,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+233,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+234,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+235,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+236,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Caenidae,8,1.5,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+237,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+238,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+239,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+240,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+241,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+242,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+243,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+244,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+245,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+246,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+247,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+248,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+249,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+250,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+251,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+252,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,8,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+253,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,8,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+254,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,8,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+255,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,9,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+256,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,9,2,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+257,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,9,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+258,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,9,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+259,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,9,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+260,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 1
+261,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+262,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+263,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+264,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+265,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+266,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+267,Wed,Hoosic,AN_CA_EM,Rock,2,Ephemeroptera,Caenidae,10,2,Collector,7,,Ephemeroptera Caenidae,AN_CA_EM 2
+268,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Caenidae,10,3,Collector,7,,Ephemeroptera Caenidae,CR_SJ_SA 1
+269,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Caenidae,2,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+270,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,2,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+271,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,3,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+272,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,3,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+273,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,3,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+274,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,3,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+275,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+276,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+277,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+278,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+279,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+280,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Caenidae,4,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+281,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Caenidae,4.5,1.25,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+282,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Caenidae,4.5,0.75,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+283,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,5,2,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+284,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,5,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+285,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,5,1.5,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+286,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Caenidae,5,1.5,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+287,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Caenidae,6,3,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+288,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,6,2,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+289,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,6,3,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+290,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,6,1.5,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+291,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,6.5,2.5,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+292,Wed,Hoosic,MF_SW_AV_AE,Leaf,2,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+293,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,7,1,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+294,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+295,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,7,2,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+296,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Caenidae,8,3,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 1
+297,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Caenidae,9,4.5,Collector,7,,Ephemeroptera Caenidae,MF_SW_AV_AE 2
+298,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Caenidae,2.2,0.8,Collector,7,,Ephemeroptera Caenidae,RW_AM_CL 2
+299,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Ecdyonerous,5,2,Scraper,4,,Ephemeroptera Ecdyonerous,RW_AM_CL 2
+300,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Ecdyonerous,NA,NA,Scraper,4,,Ephemeroptera Ecdyonerous,RW_AM_CL 1
+301,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,3,0.5,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+302,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Ephemerellidae,4,3,Collector,1,,Ephemeroptera Ephemerellidae,RW_AM_CL 2
+303,Wed,Hoosic,CV_NB_CS,Leaf,2,Ephemeroptera,Ephemerellidae,5.5,2.5,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 2
+304,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,6,2,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+305,Wed,Hoosic,CV_NB_CS,Rock,2,Ephemeroptera,Ephemerellidae,6,3,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 2
+306,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,7,2.25,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+307,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,7,1.5,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+308,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,7,3,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+309,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,8,2.5,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+310,Wed,Hoosic,CV_NB_CS,Rock,1,Ephemeroptera,Ephemerellidae,8,2,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+311,Wed,Hoosic,CV_NB_CS,Rock,2,Ephemeroptera,Ephemerellidae,8,3,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 2
+312,Wed,Hoosic,CV_NB_CS,Rock,2,Ephemeroptera,Ephemerellidae,12,5,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 2
+313,Wed,Hoosic,CV_NB_CS,Leaf,1,Ephemeroptera,Ephemerellidae,15,2.5,Collector,1,,Ephemeroptera Ephemerellidae,CV_NB_CS 1
+314,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,4,1,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+315,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,4,1.5,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+316,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,4.5,2,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+317,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,5,1.5,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+318,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Ephemeridae,5.5,2,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 2
+319,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Ephemeroptera,Ephemeridae,6,1.5,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+320,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,6,1.7,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+321,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,6,2.5,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+322,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Ephemeridae,6.5,2.75,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 1
+323,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Ephemeridae,7,2.5,Collector,4,,Ephemeroptera Ephemeridae,MF_SW_AV_AE 2
+324,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Heptageniidae,2,0.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+325,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Heptageniidae,2.5,0.6,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+326,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,3,1,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+327,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Heptageniidae,4,1,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+328,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Heptageniidae,4.1,1.2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+329,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,4.1,1.7,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+330,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Heptageniidae,4.2,1.2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+331,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Heptageniidae,4.5,1,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+332,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Heptageniidae,4.9,1.5,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+333,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Heptageniidae,5,1.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+334,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,5.1,2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+335,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,6.1,2.4,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+336,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,6.1,2.3,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+337,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,6.2,2.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+338,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,6.5,1.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+339,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,6.9,2.5,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+340,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7,2.5,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+341,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Heptageniidae,7.1,2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+342,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Heptageniidae,7.1,2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 2
+343,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7.1,1.2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+344,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7.1,2.3,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+345,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7.2,2.2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+346,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7.2,2.2,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+347,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7.2,2.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+348,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,7.9,2.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+349,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,8,2.1,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+350,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,8,2.8,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+351,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,8.2,2.5,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+352,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,8.5,3,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+353,Wed,Hoosic,RW_AM_CL,Rock,1,Ephemeroptera,Heptageniidae,8.9,3.1,Scraper,4,,Ephemeroptera Heptageniidae,RW_AM_CL 1
+354,Tues,FordGlen,RH_MB_HM,Rock,2,Ephemeroptera,Heptageniidae,10,4,Scraper,4,,Ephemeroptera Heptageniidae,RH_MB_HM 2
+355,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Potamanthidae,5,1.6,Collector,4,,Ephemeroptera Potamanthidae,RW_AM_CL 2
+356,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Ephemeroptera,Potamanthidae,5,1,Collector,4,,Ephemeroptera Potamanthidae,GV_GL_CE_RP 2
+357,Tues,FordGlen,GV_GL_CE_RP,Leaf,2,Ephemeroptera,Potamanthidae,7,1,Collector,4,,Ephemeroptera Potamanthidae,GV_GL_CE_RP 2
+358,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Potamanthidae,NA,NA,Collector,4,,Ephemeroptera Potamanthidae,RW_AM_CL 2
+359,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Potamanthidae,2,0.5,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 1
+360,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Potamanthidae,5,2,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 1
+361,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Potamanthidae,5.5,3,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 2
+362,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Potamanthidae,6,2,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 2
+363,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Potamanthidae,8,3,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 2
+364,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Ephemeroptera,Potamanthidae,8,3,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 2
+365,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Ephemeroptera,Potamanthidae,9,2.5,Collector,4,,Ephemeroptera Potamanthidae,MF_SW_AV_AE 1
+366,Wed,Hoosic,RW_AM_CL,Leaf,2,Ephemeroptera,Siphlonuridae,5.1,1,Collector,7,,Ephemeroptera Siphlonuridae,RW_AM_CL 2
+367,Wed,Hoosic,RW_AM_CL,Rock,2,Ephemeroptera,Siphlonuridae,8,3.5,Collector,7,,Ephemeroptera Siphlonuridae,RW_AM_CL 2
+368,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Spp. ,4,2,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+369,Wed,Hoosic,CR_SJ_SA,Rock,1,Ephemeroptera,Spp. ,5,2,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+370,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,5,2,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+371,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,5,2,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+372,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,NA,NA,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+373,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,NA,NA,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+374,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,NA,NA,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+375,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,NA,NA,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+376,Wed,Hoosic,CR_SJ_SA,Leaf,1,Ephemeroptera,Spp. ,NA,NA,,NA,,Ephemeroptera Spp. ,CR_SJ_SA 1
+377,Wed,Hoosic,BT_GW_OC,Leaf,1,Ephemeroptera,Spp. ,2,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+378,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,2,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+379,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,3,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+380,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,3,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+381,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,4,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+382,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,4,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+383,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,4,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+384,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,4,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+385,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,4,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+386,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,4,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+387,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,4,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+388,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,4,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+389,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,5,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+390,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,5,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+391,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,5,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+392,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,6,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+393,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,6,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+394,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,6,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+395,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,6,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+396,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,6,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+397,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,6,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+398,Wed,Hoosic,BT_GW_OC,Leaf,1,Ephemeroptera,Spp. ,6,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+399,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,6,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+400,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,7,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+401,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,7,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+402,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,7,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+403,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,7,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+404,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,7,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+405,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,7,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+406,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,7,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+407,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,8,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+408,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,8,4,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+409,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,8,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+410,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,9,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+411,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,9,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+412,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,9,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+413,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,10,1,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+414,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,10,4,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+415,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,10,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+416,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,11,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+417,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,12,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+418,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,12,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+419,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,13,4,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+420,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,13,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+421,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,13,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+422,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,15,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+423,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,15,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+424,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,15,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+425,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,15,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+426,Wed,Hoosic,BT_GW_OC,Leaf,2,Ephemeroptera,Spp. ,15,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+427,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,16,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+428,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,16,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+429,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,16,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+430,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,16,4,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+431,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,17,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+432,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,18,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+433,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,18,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+434,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,19,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+435,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,20,4,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+436,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,20,2,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+437,Wed,Hoosic,BT_GW_OC,Rock,1,Ephemeroptera,Spp. ,21,4,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+438,Wed,Hoosic,BT_GW_OC,Leaf,1,Ephemeroptera,Spp. ,23,3,,NA,,Ephemeroptera Spp. ,BT_GW_OC 1
+439,Wed,Hoosic,BT_GW_OC,Rock,2,Ephemeroptera,Spp. ,36,6,,NA,,Ephemeroptera Spp. ,BT_GW_OC 2
+440,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Spp. ,3,1,,NA,,Ephemeroptera Spp. ,AN_CA_EM 1
+441,Wed,Hoosic,AN_CA_EM,Rock,1,Ephemeroptera,Spp. ,6,1,,NA,,Ephemeroptera Spp. ,AN_CA_EM 1
+442,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,2.5,1.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+443,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,2.5,1.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+444,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,3,2,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+445,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,3,1.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+446,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,4,1.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+447,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,4.5,2.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+448,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,5,3.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+449,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,5,3,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+450,Wed,Hoosic,CV_NB_CS,Rock,1,Gastropada,Pleuroceridae,5.5,3,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+451,Wed,Hoosic,CV_NB_CS,Rock,1,Gastropada,Pleuroceridae,6,11,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+452,Wed,Hoosic,CV_NB_CS,Rock,1,Gastropada,Pleuroceridae,6,3,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+453,Wed,Hoosic,CV_NB_CS,Rock,1,Gastropada,Pleuroceridae,6.5,3,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+454,Wed,Hoosic,CV_NB_CS,Rock,1,Gastropada,Pleuroceridae,7,3.5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+455,Wed,Hoosic,CV_NB_CS,Leaf,2,Gastropada,Pleuroceridae,7.5,5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 2
+456,Wed,Hoosic,CV_NB_CS,Leaf,1,Gastropada,Pleuroceridae,10,5,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+457,Wed,Hoosic,CV_NB_CS,Rock,1,Gastropada,Pleuroceridae,14,9,Scraper,NA,,Gastropada Pleuroceridae,CV_NB_CS 1
+458,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Gastropada,Pleuroceridae,NA,NA,Scraper,NA,,Gastropada Pleuroceridae,MF_SW_AV_AE 1
+459,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Gastropada,Pleuroceridae,NA,NA,Scraper,NA,,Gastropada Pleuroceridae,MF_SW_AV_AE 1
+460,Wed,Hoosic,BT_GW_OC,Leaf,1,Gastropada,Spp. ,7,2,,NA,,Gastropada Spp. ,BT_GW_OC 1
+461,Wed,Hoosic,BT_GW_OC,Leaf,1,Gastropada,Spp. ,7,3,,NA,,Gastropada Spp. ,BT_GW_OC 1
+462,Wed,Hoosic,AN_CA_EM,Leaf,2,Gastropada,Spp. ,1,5,,NA,left handed,Gastropada Spp. ,AN_CA_EM 2
+463,Wed,Hoosic,AN_CA_EM,Leaf,1,Gastropada,Spp. ,5,4,,NA,left handed,Gastropada Spp. ,AN_CA_EM 1
+464,Wed,Hoosic,AN_CA_EM,Leaf,1,Gastropada,Spp. ,5,4,,NA,left handed,Gastropada Spp. ,AN_CA_EM 1
+465,Wed,Hoosic,AN_CA_EM,Leaf,1,Gastropada,Spp. ,5,4,,NA,right handed,Gastropada Spp. ,AN_CA_EM 1
+466,Wed,Hoosic,AN_CA_EM,Leaf,2,Gastropada,Spp. ,5,3,,NA,,Gastropada Spp. ,AN_CA_EM 2
+467,Wed,Hoosic,AN_CA_EM,Rock,2,Gastropada,Spp. ,6,5,,NA,,Gastropada Spp. ,AN_CA_EM 2
+468,Wed,Hoosic,BT_GW_OC,Rock,2,Gastropada,Spp. ,NA,NA,,NA,,Gastropada Spp. ,BT_GW_OC 2
+469,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Hemiptera,Veliidae,2,1,Collector,Collector,,Hemiptera Veliidae,MF_SW_AV_AE 1
+470,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Hemiptera,Veliidae,3,2,Collector,Collector,,Hemiptera Veliidae,MF_SW_AV_AE 1
+471,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Hemiptera,Veliidae,3,2,Collector,Collector,,Hemiptera Veliidae,MF_SW_AV_AE 1
+472,Wed,Hoosic,BT_GW_OC,Rock,2,Hemiptera,Veliidae,5,2,Collector,Collector,,Hemiptera Veliidae,BT_GW_OC 2
+473,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Megaloptera,Corydalidae,10,1,Predator,0,,Megaloptera Corydalidae,GV_GL_CE_RP 2
+474,Wed,Hoosic,AN_CA_EM,Rock,1,Megaloptera,Corydalidae,40,5,Predator,0,,Megaloptera Corydalidae,AN_CA_EM 1
+475,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Megaloptera,Sialidae,7,4,Predator,4,,Megaloptera Sialidae,MF_SW_AV_AE 2
+476,Tues,FordGlen,JR_RW_EW,Rock,1,Megaloptera,Sialidae,10,2,Predator,4,,Megaloptera Sialidae,JR_RW_EW 1
+477,Tues,FordGlen,RH_MB_HM,Leaf,2,Megaloptera,Spp. ,11,2,,NA,,Megaloptera Spp. ,RH_MB_HM 2
+478,Tues,FordGlen,RH_MB_HM,Leaf,2,Odonata,Calopterygidae,19,3,Predator,5,,Odonata Calopterygidae,RH_MB_HM 2
+479,Tues,FordGlen,JR_RW_EW,Rock,2,Odonata,Lestidae,7,6,Predator,9,,Odonata Lestidae,JR_RW_EW 2
+480,Wed,Hoosic,CV_NB_CS,Rock,1,Odonata,Zygoptera,7,1,Predator,NA,,Odonata Zygoptera,CV_NB_CS 1
+481,Wed,Hoosic,CV_NB_CS,Rock,1,Odonata,Zygoptera,7,1,Predator,NA,,Odonata Zygoptera,CV_NB_CS 1
+482,Wed,Hoosic,CV_NB_CS,Rock,1,Odonata,Zygoptera,7,1,Predator,NA,,Odonata Zygoptera,CV_NB_CS 1
+483,Wed,Hoosic,CV_NB_CS,Leaf,2,Odonata,Zygoptera,8,1.2,Predator,NA,,Odonata Zygoptera,CV_NB_CS 2
+484,Wed,Hoosic,CV_NB_CS,Rock,1,Odonata,Zygoptera,15,2,Predator,NA,,Odonata Zygoptera,CV_NB_CS 1
+485,Wed,Hoosic,RW_AM_CL,Leaf,2,Plecoptera,Chloroperlidae,2.5,0.6,Collector,1,,Plecoptera Chloroperlidae,RW_AM_CL 2
+486,Tues,FordGlen,JR_RW_EW,Leaf,1,Plecoptera,Chloroperlidae,5,1,Collector,1,,Plecoptera Chloroperlidae,JR_RW_EW 1
+487,Tues,FordGlen,RH_MB_HM,Rock,1,Plecoptera,Chloroperlidae,10,5,Collector,1,,Plecoptera Chloroperlidae,RH_MB_HM 1
+488,Tues,FordGlen,HH_CB_MPM,Leaf,1,Plecoptera,Chloroperlidae,2,0.25,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 1
+489,Tues,FordGlen,HH_CB_MPM,Leaf,1,Plecoptera,Chloroperlidae,2.5,0.5,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 1
+490,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,3,3,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+491,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,4,1,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+492,Tues,FordGlen,HH_CB_MPM,Leaf,1,Plecoptera,Chloroperlidae,4.2,0.9,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 1
+493,Tues,FordGlen,HH_CB_MPM,Leaf,1,Plecoptera,Chloroperlidae,4.2,0.4,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 1
+494,Tues,FordGlen,HH_CB_MPM,Leaf,2,Plecoptera,Chloroperlidae,4.3,1,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 2
+495,Tues,FordGlen,HH_CB_MPM,Leaf,2,Plecoptera,Chloroperlidae,4.3,0.8,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 2
+496,Tues,FordGlen,HH_CB_MPM,Rock,1,Plecoptera,Chloroperlidae,5,1,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 1
+497,Tues,FordGlen,HH_CB_MPM,Leaf,2,Plecoptera,Chloroperlidae,5,0.5,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 2
+498,Tues,FordGlen,HH_CB_MPM,Leaf,2,Plecoptera,Chloroperlidae,5,0.33,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 2
+499,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,5,2,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+500,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,5,1,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+501,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,6,2,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+502,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,6,2,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+503,Tues,FordGlen,HH_CB_MPM,Leaf,2,Plecoptera,Chloroperlidae,6.5,0.12,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 2
+504,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,8,2,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+505,Tues,FordGlen,HH_CB_MPM,Rock,1,Plecoptera,Chloroperlidae,10,1.5,Collector,1,,Plecoptera Chloroperlidae,HH_CB_MPM 1
+506,Tues,FordGlen,AP_SN_RB,Leaf,1,Plecoptera,Chloroperlidae,35,2,Collector,1,,Plecoptera Chloroperlidae,AP_SN_RB 1
+507,Wed,Hoosic,CR_SJ_SA,Rock,1,Plecoptera,Chloroperlidae,NA,NA,Collector,1,,Plecoptera Chloroperlidae,CR_SJ_SA 1
+508,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Plecoptera,Leuctridae,4,1,Shredder,0,,Plecoptera Leuctridae,GV_GL_CE_RP 1
+509,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Plecoptera,Leuctridae,4,1,Shredder,0,,Plecoptera Leuctridae,GV_GL_CE_RP 1
+510,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Plecoptera,Leuctridae,5,1,Shredder,0,,Plecoptera Leuctridae,GV_GL_CE_RP 2
+511,Wed,Hoosic,RW_AM_CL,Rock,2,Plecoptera,Leuctridae,5.5,1.8,Shredder,0,,Plecoptera Leuctridae,RW_AM_CL 2
+512,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Plecoptera,Leuctridae,6,1,Shredder,0,,Plecoptera Leuctridae,GV_GL_CE_RP 1
+513,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Plecoptera,Leuctridae,8,1,Shredder,0,,Plecoptera Leuctridae,GV_GL_CE_RP 1
+514,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Plecoptera,Leuctridae,8,1,Shredder,0,,Plecoptera Leuctridae,GV_GL_CE_RP 2
+515,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,3,2,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+516,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,4,2,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+517,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,4,1,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+518,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,4,1,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+519,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,4,1,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+520,Tues,FordGlen,HD_GN_CP,Rock,1,Plecoptera,Nemouridae,4,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+521,Tues,FordGlen,HD_GN_CP,Rock,1,Plecoptera,Nemouridae,4,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+522,Tues,FordGlen,HD_GN_CP,Rock,2,Plecoptera,Nemouridae,4,1,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 2
+523,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,4,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+524,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,4,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+525,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,4,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+526,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,4,1,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+527,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,5,1,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+528,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,5,2,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+529,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,5,2,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+530,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,5,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+531,Tues,FordGlen,HD_GN_CP,Rock,1,Plecoptera,Nemouridae,5.5,0.5,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+532,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,6,2,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+533,Tues,FordGlen,HD_GN_CP,Rock,2,Plecoptera,Nemouridae,6,1,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 2
+534,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,6,1,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+535,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,7,1,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+536,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,8,1,Shredder,2,larvae,Plecoptera Nemouridae,HD_GN_CP 1
+537,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Nemouridae,8,1.5,Shredder,2,larvae,Plecoptera Nemouridae,HD_GN_CP 1
+538,Wed,Hoosic,RW_AM_CL,Leaf,1,Plecoptera,Nemouridae,13,3,Shredder,2,,Plecoptera Nemouridae,RW_AM_CL 1
+539,Wed,Hoosic,CV_NB_CS,Rock,1,Plecoptera,Nemouridae,14,5,Shredder,2,,Plecoptera Nemouridae,CV_NB_CS 1
+540,Tues,FordGlen,HD_GN_CP,Rock,1,Plecoptera,Nemouridae,NA,NA,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+541,Tues,FordGlen,HD_GN_CP,Rock,1,Plecoptera,Nemouridae,NA,NA,Shredder,2,,Plecoptera Nemouridae,HD_GN_CP 1
+542,Wed,Hoosic,CR_SJ_SA,Rock,1,Plecoptera,Nemouridae,NA,NA,Shredder,2,,Plecoptera Nemouridae,CR_SJ_SA 1
+543,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlidae,9,2,Predator,1,,Plecoptera Perlidae,CR_SJ_SA 2
+544,Tues,FordGlen,JR_RW_EW,Rock,1,Plecoptera,Perlidae,9,2,Predator,1,,Plecoptera Perlidae,JR_RW_EW 1
+545,Tues,FordGlen,JR_RW_EW,Leaf,1,Plecoptera,Perlidae,9,3,Predator,1,,Plecoptera Perlidae,JR_RW_EW 1
+546,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlidae,11,5,Predator,1,,Plecoptera Perlidae,CR_SJ_SA 2
+547,Wed,Hoosic,AN_CA_EM,Leaf,2,Plecoptera,Perlidae,22,3,Predator,1,largest,Plecoptera Perlidae,AN_CA_EM 2
+548,Wed,Hoosic,CR_SJ_SA,Rock,1,Plecoptera,Perlidae,NA,NA,Predator,1,,Plecoptera Perlidae,CR_SJ_SA 1
+549,Wed,Hoosic,CR_SJ_SA,Rock,1,Plecoptera,Perlidae,NA,NA,Predator,1,,Plecoptera Perlidae,CR_SJ_SA 1
+550,Tues,FordGlen,AP_SN_RB,Rock,1,Plecoptera,Perlodidae,3,1,Predator,2,Most wings and legs broken,Plecoptera Perlodidae,AP_SN_RB 1
+551,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,6,1,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+552,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,6,1,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+553,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,8,2,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+554,Tues,FordGlen,JR_RW_EW,Leaf,1,Plecoptera,Perlodidae,10,4,Predator,2,,Plecoptera Perlodidae,JR_RW_EW 1
+555,Wed,Hoosic,CR_SJ_SA,Rock,1,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 1
+556,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+557,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+558,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+559,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+560,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+561,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+562,Wed,Hoosic,CR_SJ_SA,Rock,2,Plecoptera,Perlodidae,NA,NA,Predator,2,,Plecoptera Perlodidae,CR_SJ_SA 2
+563,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Pteronarcyidae,5,1,Shredder,0,"Squat head, almost mayfly-looking, 2 cerci | does not match ID",Plecoptera Pteronarcyidae,HD_GN_CP 1
+564,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Pteronarcyidae,5,2,Shredder,0,"Squat head, almost mayfly-looking, 2 cerci | does not match ID",Plecoptera Pteronarcyidae,HD_GN_CP 1
+565,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Pteronarcyidae,9,4,Shredder,0,"Squat head, almost mayfly-looking, 2 cerci | does not match ID",Plecoptera Pteronarcyidae,HD_GN_CP 1
+566,Tues,FordGlen,HD_GN_CP,Leaf,2,Plecoptera,Pteronarcyidae,10,3,Shredder,0,,Plecoptera Pteronarcyidae,HD_GN_CP 2
+567,Tues,FordGlen,JR_RW_EW,Leaf,1,Plecoptera,Pteronarcyidae,15,3,Shredder,0,,Plecoptera Pteronarcyidae,JR_RW_EW 1
+568,Tues,FordGlen,HD_GN_CP,Leaf,1,Plecoptera,Pteronarcyidae,NA,NA,Shredder,0,"Squat head, almost mayfly-looking, 2 cerci | does not match ID",Plecoptera Pteronarcyidae,HD_GN_CP 1
+569,Tues,FordGlen,RH_MB_HM,Leaf,2,Plecoptera,Spp. ,2,0.5,,NA,,Plecoptera Spp. ,RH_MB_HM 2
+570,Tues,FordGlen,RH_MB_HM,Leaf,2,Plecoptera,Spp. ,5,1,,NA,,Plecoptera Spp. ,RH_MB_HM 2
+571,Tues,FordGlen,HD_GN_CP,Leaf,2,Plecoptera,Spp. ,6,3,,NA,,Plecoptera Spp. ,HD_GN_CP 2
+572,Wed,Hoosic,CR_SJ_SA,Leaf,1,Plecoptera,Spp. ,7,2,,NA,,Plecoptera Spp. ,CR_SJ_SA 1
+573,Wed,Hoosic,AN_CA_EM,Rock,2,Plecoptera,Spp. ,8,1,,NA,,Plecoptera Spp. ,AN_CA_EM 2
+574,Wed,Hoosic,AN_CA_EM,Rock,2,Plecoptera,Spp. ,8,1,,NA,,Plecoptera Spp. ,AN_CA_EM 2
+575,Wed,Hoosic,AN_CA_EM,Rock,2,Plecoptera,Spp. ,8,1,,NA,,Plecoptera Spp. ,AN_CA_EM 2
+576,Wed,Hoosic,CR_SJ_SA,Leaf,1,Plecoptera,Spp. ,8,2,,NA,,Plecoptera Spp. ,CR_SJ_SA 1
+577,Tues,FordGlen,RH_MB_HM,Leaf,2,Plecoptera,Spp. ,11,3,,NA,,Plecoptera Spp. ,RH_MB_HM 2
+578,Tues,FordGlen,HD_GN_CP,Leaf,2,Plecoptera,Spp. ,11,2,,NA,,Plecoptera Spp. ,HD_GN_CP 2
+579,Tues,FordGlen,HD_GN_CP,Leaf,2,Plecoptera,Spp. ,14,1.5,,NA,,Plecoptera Spp. ,HD_GN_CP 2
+580,Tues,FordGlen,RH_MB_HM,Leaf,1,Plecoptera,Spp. ,15,5,,NA,,Plecoptera Spp. ,RH_MB_HM 1
+581,Tues,FordGlen,RH_MB_HM,Leaf,1,Plecoptera,Spp. ,15,3,,NA,,Plecoptera Spp. ,RH_MB_HM 1
+582,Wed,Hoosic,AN_CA_EM,Rock,1,Plecoptera,Spp. ,1,0.25,,NA,,Plecoptera Spp. ,AN_CA_EM 1
+583,Wed,Hoosic,AN_CA_EM,Rock,1,Plecoptera,Spp. ,2,0.5,,NA,,Plecoptera Spp. ,AN_CA_EM 1
+584,Wed,Hoosic,AN_CA_EM,Leaf,1,Plecoptera,Spp. ,5,2,,NA,,Plecoptera Spp. ,AN_CA_EM 1
+585,Wed,Hoosic,AN_CA_EM,Leaf,1,Plecoptera,Spp. ,12,4,,NA,,Plecoptera Spp. ,AN_CA_EM 1
+586,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Brachycentridae,5,1,Collector,1,,Trichoptera Brachycentridae,AP_SN_RB 2
+587,Tues,FordGlen,HD_GN_CP,Rock,1,Trichoptera,Glossosomatidae,4.5,1,Scraper,0,,Trichoptera Glossosomatidae,HD_GN_CP 1
+588,Tues,FordGlen,HD_GN_CP,Rock,2,Trichoptera,Glossosomatidae,5,1,Scraper,0,,Trichoptera Glossosomatidae,HD_GN_CP 2
+589,Tues,FordGlen,HD_GN_CP,Rock,2,Trichoptera,Glossosomatidae,5,1,Scraper,0,,Trichoptera Glossosomatidae,HD_GN_CP 2
+590,Tues,FordGlen,HD_GN_CP,Rock,2,Trichoptera,Glossosomatidae,6,1,Scraper,0,"Metaphorphosis, change in maturity",Trichoptera Glossosomatidae,HD_GN_CP 2
+591,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Glossosomatidae,1,0.1,Scraper,0,,Trichoptera Glossosomatidae,AP_SN_RB 2
+592,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Glossosomatidae,3,0.2,Scraper,0,,Trichoptera Glossosomatidae,AP_SN_RB 1
+593,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Helicopsychidae,5,1,Scraper,3,,Trichoptera Helicopsychidae,JR_RW_EW 1
+594,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Helicopsychidae,5,1,Scraper,3,,Trichoptera Helicopsychidae,JR_RW_EW 2
+595,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Helicopsychidae,9.1,1.8,Scraper,3,,Trichoptera Helicopsychidae,RW_AM_CL 1
+596,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Helicopsychidae,26,1.8,Scraper,3,,Trichoptera Helicopsychidae,RW_AM_CL 1
+597,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,2,0.4,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+598,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Trichoptera,Hydropsychidae,3,0.2,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 2
+599,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Hydropsychidae,4,2,Collector,4,,Trichoptera Hydropsychidae,GV_GL_CE_RP 1
+600,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,5,2.5,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+601,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,5,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+602,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,5,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+603,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,5,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+604,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Trichoptera,Hydropsychidae,5,0.7,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 2
+605,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Trichoptera,Hydropsychidae,5,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+606,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Trichoptera,Hydropsychidae,5,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+607,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,5,0.7,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+608,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,5.2,1.2,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+609,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Trichoptera,Hydropsychidae,5.5,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+610,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,5.5,1.1,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+611,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Trichoptera,Hydropsychidae,6,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 2
+612,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+613,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+614,Wed,Hoosic,AN_CA_EM,Leaf,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+615,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+616,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+617,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+618,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+619,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+620,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+621,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+622,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Trichoptera,Hydropsychidae,7.5,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+623,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,8,4,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+624,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Trichoptera,Hydropsychidae,8,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 2
+625,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,8.5,1.1,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+626,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,8.8,1.2,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+627,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,9,1,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+628,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,10,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+629,Wed,Hoosic,MF_SW_AV_AE,Leaf,1,Trichoptera,Hydropsychidae,10,1.5,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+630,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Hydropsychidae,10,2,Collector,4,,Trichoptera Hydropsychidae,JR_RW_EW 2
+631,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Hydropsychidae,11,2,Collector,4,,Trichoptera Hydropsychidae,RW_AM_CL 2
+632,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Hydropsychidae,11,2,Collector,4,,Trichoptera Hydropsychidae,JR_RW_EW 2
+633,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,12,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+634,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+635,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+636,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+637,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+638,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+639,Wed,Hoosic,AN_CA_EM,Rock,2,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 2
+640,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Hydropsychidae,12,2,Collector,4,,Trichoptera Hydropsychidae,JR_RW_EW 1
+641,Wed,Hoosic,AN_CA_EM,Rock,1,Trichoptera,Hydropsychidae,13,1,Collector,4,,Trichoptera Hydropsychidae,AN_CA_EM 1
+642,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Hydropsychidae,18,2,Collector,4,,Trichoptera Hydropsychidae,JR_RW_EW 1
+643,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Hydropsychidae,19,2,Collector,4,,Trichoptera Hydropsychidae,JR_RW_EW 1
+644,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Hydropsychidae,25,4,Collector,4,,Trichoptera Hydropsychidae,BT_GW_OC 1
+645,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,0.5,0.1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+646,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,1,0.2,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+647,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,1,0.1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+648,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,1,0.1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+649,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,2,0.8,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+650,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,2,0.2,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+651,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,3,0.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+652,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,3,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+653,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,3,0.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+654,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,3,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+655,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,4,0.5,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+656,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,4,0.5,Collector,4,parasites,Trichoptera Hydropsychidae,AP_SN_RB 2
+657,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,5,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+658,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,5,0.75,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+659,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,5,0.3,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+660,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,6,2,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+661,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,6,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+662,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,6,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+663,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,6,0.75,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+664,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,6,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+665,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,6,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+666,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,6,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+667,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,6,0.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+668,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,6,2,Collector,4,parasites,Trichoptera Hydropsychidae,AP_SN_RB 2
+669,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,7,1.5,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+670,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+671,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,7,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+672,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,8,1.5,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+673,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,8,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+674,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,8,1.5,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+675,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,8,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+676,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,8,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+677,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,8,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+678,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,9,0.75,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+679,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,9,1,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+680,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,9,2,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+681,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,9,1.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+682,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,9,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+683,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,9,2,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+684,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,9,2.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+685,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,9,1,Collector,4,parasites,Trichoptera Hydropsychidae,AP_SN_RB 2
+686,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,10,1.2,Collector,4,His little shell sections are a little farther apart,Trichoptera Hydropsychidae,AP_SN_RB 1
+687,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,10,1.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+688,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,10,2,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+689,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,10,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+690,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Hydropsychidae,11,1.75,Collector,4,,Trichoptera Hydropsychidae,MF_SW_AV_AE 1
+691,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,11,1,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+692,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,11,1.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 2
+693,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,11,2,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+694,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydropsychidae,11,1,Collector,4,parasites,Trichoptera Hydropsychidae,AP_SN_RB 2
+695,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydropsychidae,12,1.5,Collector,4,,Trichoptera Hydropsychidae,AP_SN_RB 1
+696,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,3.4,0.4,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+697,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Hydroptilidae,6,2,Scraper,4,,Trichoptera Hydroptilidae,BT_GW_OC 2
+698,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,7.2,1,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+699,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Hydroptilidae,7.3,0.6,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 2
+700,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Hydroptilidae,10,1,Scraper,4,,Trichoptera Hydroptilidae,JR_RW_EW 1
+701,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,10.2,1.1,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+702,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Hydroptilidae,11,0.9,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 2
+703,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,12.3,1.3,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+704,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,NA,NA,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+705,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,NA,NA,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+706,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,NA,NA,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+707,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Hydroptilidae,NA,NA,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 1
+708,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Hydroptilidae,NA,NA,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 2
+709,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Hydroptilidae,NA,NA,Scraper,4,,Trichoptera Hydroptilidae,RW_AM_CL 2
+710,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Hydroptilidae,5,0.5,Scraper,4,,Trichoptera Hydroptilidae,AP_SN_RB 1
+711,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydroptilidae,5,1,Scraper,4,,Trichoptera Hydroptilidae,AP_SN_RB 2
+712,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydroptilidae,6,1.2,Scraper,4,,Trichoptera Hydroptilidae,AP_SN_RB 2
+713,Tues,FordGlen,AP_SN_RB,Rock,2,Trichoptera,Hydroptilidae,6,1.2,Scraper,4,,Trichoptera Hydroptilidae,AP_SN_RB 2
+714,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,2,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+715,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,2,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+716,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,3,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+717,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,3,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+718,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,4,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+719,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,4,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+720,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,4,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+721,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,5,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+722,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,5,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+723,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,6,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+724,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,6,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+725,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,6,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+726,Wed,Hoosic,BT_GW_OC,Leaf,1,Trichoptera,Lepidostomatidae,7,1,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 1
+727,Wed,Hoosic,BT_GW_OC,Leaf,1,Trichoptera,Lepidostomatidae,10,2,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 1
+728,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,11,2,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+729,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Lepidostomatidae,12,2,Shredder,1,,Trichoptera Lepidostomatidae,BT_GW_OC 2
+730,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Leptoceridae,18,2,Shredder,4,,Trichoptera Leptoceridae,JR_RW_EW 1
+731,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,1,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+732,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,2,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+733,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,2,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+734,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,2,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+735,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,2,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+736,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,3,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+737,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,3,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+738,Tues,FordGlen,GV_GL_CE_RP,Leaf,1,Trichoptera,Molannidae,3,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 1
+739,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,4,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+740,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,4,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+741,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,5,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+742,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,5,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+743,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,5,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+744,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,5,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+745,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,5,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+746,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,5,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+747,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,6,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+748,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,7,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+749,Tues,FordGlen,GV_GL_CE_RP,Rock,2,Trichoptera,Molannidae,7,1,Scraper,6,,Trichoptera Molannidae,GV_GL_CE_RP 2
+750,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Odontoceridae,9,2,Shredder,0,,Trichoptera Odontoceridae,GV_GL_CE_RP 1
+751,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Odontoceridae,10,2,Shredder,0,,Trichoptera Odontoceridae,GV_GL_CE_RP 1
+752,Tues,FordGlen,HH_CB_MPM,Leaf,1,Trichoptera,Odontoceridae,4.5,0.2,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 1
+753,Tues,FordGlen,HH_CB_MPM,Rock,2,Trichoptera,Odontoceridae,5,2,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+754,Tues,FordGlen,HH_CB_MPM,Leaf,2,Trichoptera,Odontoceridae,5.5,0.3,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+755,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,6,2,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+756,Tues,FordGlen,HH_CB_MPM,Rock,2,Trichoptera,Odontoceridae,8,2,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+757,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,8,2,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+758,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,8,2,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+759,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,9,2,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+760,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,9,3,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+761,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,10,1,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+762,Tues,FordGlen,HH_CB_MPM,Leaf,2,Trichoptera,Odontoceridae,10.5,1,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+763,Tues,FordGlen,HH_CB_MPM,Rock,2,Trichoptera,Odontoceridae,11,2,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+764,Tues,FordGlen,HH_CB_MPM,Leaf,2,Trichoptera,Odontoceridae,12,1.5,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+765,Tues,FordGlen,HH_CB_MPM,Leaf,2,Trichoptera,Odontoceridae,15,2,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 2
+766,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,17,2,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+767,Tues,FordGlen,HH_CB_MPM,Rock,1,Trichoptera,Odontoceridae,18.5,2.2,Shredder,0,,Trichoptera Odontoceridae,HH_CB_MPM 1
+768,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,20,4,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+769,Tues,FordGlen,AP_SN_RB,Leaf,1,Trichoptera,Odontoceridae,26,3,Shredder,0,,Trichoptera Odontoceridae,AP_SN_RB 1
+770,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Philopotamidae,5,1,Collector,3,,Trichoptera Philopotamidae,BT_GW_OC 2
+771,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Philopotamidae,6,1,Collector,3,,Trichoptera Philopotamidae,JR_RW_EW 2
+772,Wed,Hoosic,BT_GW_OC,Rock,2,Trichoptera,Philopotamidae,7,1,Collector,3,,Trichoptera Philopotamidae,BT_GW_OC 2
+773,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Philopotamidae,7,2,Collector,3,,Trichoptera Philopotamidae,JR_RW_EW 2
+774,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Philopotamidae,7,2,Collector,3,,Trichoptera Philopotamidae,JR_RW_EW 2
+775,Tues,FordGlen,JR_RW_EW,Rock,2,Trichoptera,Philopotamidae,8,1,Collector,3,,Trichoptera Philopotamidae,JR_RW_EW 2
+776,Tues,FordGlen,JR_RW_EW,Rock,1,Trichoptera,Philopotamidae,10,2,Collector,3,,Trichoptera Philopotamidae,JR_RW_EW 1
+777,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Phryganeidae,6.1,0.7,Shredder,4,,Trichoptera Phryganeidae,RW_AM_CL 1
+778,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Phryganeidae,9.3,0.9,Shredder,4,,Trichoptera Phryganeidae,RW_AM_CL 2
+779,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Phryganeidae,11,0.8,Shredder,4,,Trichoptera Phryganeidae,RW_AM_CL 1
+780,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Phryganeidae,11,1.9,Shredder,4,,Trichoptera Phryganeidae,RW_AM_CL 2
+781,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Phryganeidae,NA,NA,Shredder,4,,Trichoptera Phryganeidae,RW_AM_CL 1
+782,Wed,Hoosic,RW_AM_CL,Rock,1,Trichoptera,Phryganeidae,NA,NA,Shredder,4,,Trichoptera Phryganeidae,RW_AM_CL 1
+783,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Phryganeidae,4,0.5,Shredder,4,,Trichoptera Phryganeidae,AP_SN_RB 1
+784,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Polycentropodidae,8.2,1.2,Collector,6,,Trichoptera Polycentropodidae,RW_AM_CL 2
+785,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Polycentropodidae,11.2,1.6,Collector,6,,Trichoptera Polycentropodidae,RW_AM_CL 2
+786,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Polycentropodidae,12,2,Collector,6,,Trichoptera Polycentropodidae,RW_AM_CL 2
+787,Tues,FordGlen,AP_SN_RB,Rock,1,Trichoptera,Polycentropodidae,8,1,Collector,6,"Soft membranous plates, brown and orange and white colors, 2 hardened plates at the top",Trichoptera Polycentropodidae,AP_SN_RB 1
+788,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Psychomyiidae,10,1,Collector,2,,Trichoptera Psychomyiidae,RW_AM_CL 2
+789,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Psychomyiidae,10,2,Collector,2,,Trichoptera Psychomyiidae,RW_AM_CL 2
+790,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Psychomyiidae,12,2.3,Collector,2,,Trichoptera Psychomyiidae,RW_AM_CL 2
+791,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Psychomyiidae,NA,NA,Collector,2,,Trichoptera Psychomyiidae,RW_AM_CL 2
+792,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Psychomyiidae,NA,NA,Collector,2,,Trichoptera Psychomyiidae,RW_AM_CL 2
+793,Wed,Hoosic,RW_AM_CL,Rock,2,Trichoptera,Psychomyiidae,NA,NA,Collector,2,,Trichoptera Psychomyiidae,RW_AM_CL 2
+794,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,5,1.5,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+795,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,5,1,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+796,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Rhyacophilidae,6,1,Predator,0,,Trichoptera Rhyacophilidae,BT_GW_OC 1
+797,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Trichoptera,Rhyacophilidae,6,1,Predator,0,,Trichoptera Rhyacophilidae,MF_SW_AV_AE 2
+798,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,6,1,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+799,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,6,1,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+800,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,6,1,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+801,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Rhyacophilidae,7,1,Predator,0,,Trichoptera Rhyacophilidae,BT_GW_OC 1
+802,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Rhyacophilidae,8,1,Predator,0,,Trichoptera Rhyacophilidae,BT_GW_OC 1
+803,Wed,Hoosic,MF_SW_AV_AE,Rock,2,Trichoptera,Rhyacophilidae,8,1,Predator,0,,Trichoptera Rhyacophilidae,MF_SW_AV_AE 2
+804,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,8,1,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+805,Tues,FordGlen,GV_GL_CE_RP,Rock,1,Trichoptera,Rhyacophilidae,8,1,Predator,0,,Trichoptera Rhyacophilidae,GV_GL_CE_RP 1
+806,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Rhyacophilidae,9,1,Predator,0,,Trichoptera Rhyacophilidae,BT_GW_OC 1
+807,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Rhyacophilidae,10,1,Predator,0,,Trichoptera Rhyacophilidae,BT_GW_OC 1
+808,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Rhyacophilidae,11,1,Predator,0,,Trichoptera Rhyacophilidae,BT_GW_OC 1
+809,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Rhyacophilidae,11.3,2,Predator,0,,Trichoptera Rhyacophilidae,RW_AM_CL 2
+810,Wed,Hoosic,RW_AM_CL,Leaf,1,Trichoptera,Rhyacophilidae,12,2,Predator,0,,Trichoptera Rhyacophilidae,RW_AM_CL 1
+811,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Rhyacophilidae,8,2,Predator,0,,Trichoptera Rhyacophilidae,MF_SW_AV_AE 1
+812,Wed,Hoosic,MF_SW_AV_AE,Rock,1,Trichoptera,Rhyacophilidae,13,2,Predator,0,,Trichoptera Rhyacophilidae,MF_SW_AV_AE 1
+813,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Sericostomatidae,4.1,0.7,Shredder,3,,Trichoptera Sericostomatidae,RW_AM_CL 2
+814,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Sericostomatidae,4.2,0.6,Shredder,3,,Trichoptera Sericostomatidae,RW_AM_CL 2
+815,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Sericostomatidae,4.6,0.7,Shredder,3,,Trichoptera Sericostomatidae,RW_AM_CL 2
+816,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Sericostomatidae,5.1,0.5,Shredder,3,,Trichoptera Sericostomatidae,RW_AM_CL 2
+817,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Sericostomatidae,6,0.7,Shredder,3,,Trichoptera Sericostomatidae,RW_AM_CL 2
+818,Wed,Hoosic,RW_AM_CL,Leaf,2,Trichoptera,Sericostomatidae,7.2,0.8,Shredder,3,,Trichoptera Sericostomatidae,RW_AM_CL 2
+819,Wed,Hoosic,BT_GW_OC,Leaf,1,Trichoptera,Spp. ,1,8,,NA,,Trichoptera Spp. ,BT_GW_OC 1
+820,Wed,Hoosic,BT_GW_OC,Leaf,2,Trichoptera,Spp. ,5,1,,NA,,Trichoptera Spp. ,BT_GW_OC 2
+821,Wed,Hoosic,BT_GW_OC,Rock,1,Trichoptera,Spp. ,6,1,,NA,,Trichoptera Spp. ,BT_GW_OC 1
+822,Wed,Hoosic,BT_GW_OC,Leaf,2,Trichoptera,Spp. ,7,1,,NA,,Trichoptera Spp. ,BT_GW_OC 2
+823,Wed,Hoosic,BT_GW_OC,Leaf,2,Trichoptera,Spp. ,8,1,,NA,,Trichoptera Spp. ,BT_GW_OC 2
+824,Wed,Hoosic,BT_GW_OC,Leaf,2,Trichoptera,Spp. ,9,1,,NA,,Trichoptera Spp. ,BT_GW_OC 2
+825,Wed,Hoosic,BT_GW_OC,Leaf,2,Trichoptera,Spp. ,10,1,,NA,,Trichoptera Spp. ,BT_GW_OC 2
+826,Wed,Hoosic,BT_GW_OC,Leaf,2,Trichoptera,Spp. ,NA,1,,NA,,Trichoptera Spp. ,BT_GW_OC 2
